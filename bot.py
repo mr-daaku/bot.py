@@ -40,7 +40,7 @@ DEFAULT_WELCOME_MESSAGE = """
 """
 
 # Web App URL (apna URL daalo)
-WEB_APP_URL = "https://AliHamza0007.github.io/TonCloude"
+WEB_APP_URL = "https://t.me/TonCloudeBot/TonCloude"
 
 # Logging Setup
 logging.basicConfig(
